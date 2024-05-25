@@ -11,3 +11,7 @@ The Simple Calculator Project is a basic web-based calculator application that p
 - Multiplication: Multiply two numbers.
 - Division: Divide one number by another.
 - Clear: Reset the input fields.
+
+  **The webpage can be accessed here**
+  - https://atharvatasare.github.io/Simple-Calculator/
+  
