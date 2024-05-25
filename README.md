@@ -6,8 +6,8 @@ The Simple Calculator Project is a basic web-based calculator application that p
 
 **Features**
 
--Addition: Add two numbers.
--Subtraction: Subtract one number from another.
--Multiplication: Multiply two numbers.
--Division: Divide one number by another.
--Clear: Reset the input fields.
+- Addition: Add two numbers.
+- Subtraction: Subtract one number from another.
+- Multiplication: Multiply two numbers.
+- Division: Divide one number by another.
+- Clear: Reset the input fields.
